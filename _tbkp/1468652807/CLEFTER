@@ -1,0 +1,120 @@
+
+
+<!-- <block1> -->
+<?if($BASKET$)?>
+<div class="widget">
+<h2 class="widget-title"><!-- <bt> --><!--<s5441>-->Корзина<!--</s>--><!-- </bt> --></h2>
+<!-- <bc> -->$BASKET$<!-- </bc> -->
+</div>
+<?endif?>
+<!-- </block1> -->
+
+<!-- <block2> -->
+<?if($CURRENCY$)?>
+<div class="widget">
+<h2 class="widget-title"><!-- <bt> --><!--<s5442>-->Валюта<!--</s>--><!-- </bt> --></h2>
+<!-- <bc> -->$CURRENCY$<hr><?$RATE$()?><!-- </bc> -->
+</div>
+<?endif?>
+<!-- </block2> -->
+
+<!-- <block3> -->
+<?if($SPEC_FILTER$)?>
+<div class="widget">
+<h2 class="widget-title"><!-- <bt> --><!--<s50110>-->Подбор по параметрам<!--</s>--><!-- </bt> --></h2>
+<!-- <bc> -->$SPEC_FILTER$<!-- </bc> -->
+</div>
+<?endif?>
+<!-- </block3> -->
+
+<!-- <block4> -->
+<?if($CATEGORIES$)?>
+<div class="widget">
+<h2 class="widget-title"><!-- <bt> --><!--<s5351>-->Категории раздела<!--</s>--><!-- </bt> --></h2>
+<!-- <bc> -->$CATEGORIES$<!-- </bc> -->
+</div>
+<?endif?>
+<!-- </block4> -->
+
+<!-- <block5> -->
+<?if($LOGIN_FORM$)?>
+<div class="widget">
+<h2 class="widget-title"><!-- <bt> --><!--<s5158>-->Вход на сайт<!--</s>--><!-- </bt> --></h2>
+<!-- <bc> -->$LOGIN_FORM$<!-- </bc> -->
+</div>
+<?endif?>
+<!-- </block5> -->
+
+<!-- <block6> -->
+<?if($SEARCH_FORM$)?>
+<div class="widget">
+<h2 class="widget-title"><!-- <bt> --><!--<s3163>-->Поиск<!--</s>--><!-- </bt> --></h2>
+<div align="center"><!-- <bc> -->$SEARCH_FORM$<!-- </bc> --></div>
+</div>
+<?endif?>
+<!-- </block6> -->
+
+<!-- <block7> -->
+<?if($CHANNELS$)?>
+<div class="widget">
+<h2 class="widget-title"><!-- <bt> --><!--<s6439>-->Категории каналов<!--</s>--><!-- </bt> --></h2>
+<!-- <bc> -->$CHANNELS$<!-- </bc> -->
+</div>
+<?endif?>
+<!-- </block7> -->
+
+<!-- <block8> -->
+<?if($CALENDAR$)?>
+<div class="widget">
+<h2 class="widget-title"><!-- <bt> --><!--<s5171>-->Календарь<!--</s>--><!-- </bt> --></h2>
+<div align="center"><!-- <bc> -->$CALENDAR$<!-- </bc> --></div>
+</div>
+<?endif?>
+<!-- </block8> -->
+
+<!-- <block9> -->
+<?if($ARCHIVE_LINKS$)?>
+<div class="widget">
+<h2 class="widget-title"><!-- <bt> --><!--<s5347>-->Архив записей<!--</s>--><!-- </bt> --></h2>
+<!-- <bc> -->$ARCHIVE_LINKS$<!-- </bc> -->
+</div>
+<?endif?>
+<!-- </block9> -->
+
+<!-- <block10> -->
+<?if($POLL$)?>
+<div class="widget">
+<h2 class="widget-title"><!-- <bt> --><!--<s5207>-->Наш опрос<!--</s>--><!-- </bt> --></h2>
+<!-- <bc> -->$POLL$<!-- </bc> -->
+</div>
+<?endif?>
+<!-- </block10> -->
+
+<!-- <block11> -->
+<?if($CHAT_BOX$)?>
+<div class="widget">
+<h2 class="widget-title"><!-- <bt> --><!--<s3199>-->Мини-чат<!--</s>--><!-- </bt> --></h2>
+<!-- <bc> -->$CHAT_BOX$<!-- </bc> -->
+</div>
+<?endif?>
+<!-- </block11> -->
+
+<!-- <block12> -->
+<?if($COUNTER$ || $ONLINE_COUNTER$)?>
+<div class="widget">
+<h2 class="widget-title"><!-- <bt> --><!--<s5195>-->Статистика<!--</s>--><!-- </bt> --></h2>
+<div align="center"><!-- <bc> -->$COUNTER$<?if($ONLINE_COUNTER$)?><hr />$ONLINE_COUNTER$$ONLINE_USERS_LIST$<?endif?><!-- </bc> --></div>
+</div>
+<?endif?>
+<!-- </block12> -->
+
+<!-- <block13> -->
+<div class="widget">
+<h2 class="widget-title"><!-- <bt> --><!--<s5204>-->Друзья сайта<!--</s>--><!-- </bt> --></h2>
+<!-- <bc> --><!--<s1546>--><li><a href="http://blog.ucoz.ru/" target="_blank">Официальный блог</a></li>
+<li><a href="http://forum.ucoz.ru/" target="_blank">Сообщество uCoz</a></li>
+<li><a href="http://faq.ucoz.ru/" target="_blank">FAQ по системе</a></li>
+<li><a href="http://manual.ucoz.net/" target="_blank">Инструкции для uCoz</a></li><!--</s>--><!-- </bc> -->
+</div>
+<!-- </block13> -->
+

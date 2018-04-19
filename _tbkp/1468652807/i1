@@ -1,0 +1,12 @@
+<div class="blog-post">
+ <div class="post-meta">
+ <span class="author"><a href="$PROFILE_URL$"><img src="<?if($AVATAR_URL$)?>$AVATAR_URL$<?else?>http://s19.ucoz.net/a/12/1614.jpg<?endif?>" alt="Photo $USERNAME$"> $USERNAME$</a></span>,
+ <span>Категория: <?if($CATEGORY_NAME$)?><a href="$CATEGORY_URL$" title="$CATEGORY_NAME$">$CATEGORY_NAME$</a><?else?>Без категории<?endif?></span>,
+ <span>Дата: <strong>$DATE$, $TIME$</strong></span>
+ </div>
+ <h2 class="post-title"><a href="$ENTRY_URL$">$TITLE$</a></h2>
+ <div class="post-thumb"><a href="$ENTRY_URL$"><img src="$IMG_URL1$" alt="$IMG1_ALT$" title="$IMG1_TITLE$" class="img-responsive"></a></div>
+ <div class="post-content">
+ <p>$MESSAGE$ <a href="$ENTRY_URL$" class="more-link">Продолжить дальше <span class="meta-nav">→</span></a></p>
+ </div>
+ </div>

@@ -1,0 +1,146 @@
+<html lang="ru">
+<head>
+<title>[TITLE]</title>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<?$META_DESCRIPTION$?>
+<?$META_KEYWORDS$?>
+<link type="text/css" rel="StyleSheet" href="[CSS_URL]" />
+</head>
+<body>
+<div id="wrapper">
+<!-- <header> -->
+<header class="st-navbar">
+ <nav class="navbar navbar-default navbar-fixed-top clearfix" role="navigation">
+ <div class="container">
+ <div class="navbar-header">
+ <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#sept-main-nav">
+ <span class="sr-only">Навигация</span>
+ <span class="icon-bar"></span>
+ <span class="icon-bar"></span>
+ <span class="icon-bar"></span>
+ </button>
+ <a class="navbar-brand" href="/"><img src="/photos/logo3.png" alt="" class="img-responsive"></a>
+ </div>
+ <!-- <sblock_nmenu> -->
+ <div class="collapse navbar-collapse main-nav" id="sept-main-nav">
+ <?if($NMENU_1$)?><!-- <bc> -->$NMENU_1$<!-- </bc> --><?endif?>
+ </div>
+ <!-- </sblock_nmenu> -->
+ </div>
+ </nav>
+ </header>
+<!-- </header> -->
+
+<!-- <middle> -->
+<!-- <global_promo> -->
+<?if($PAGE_ID$ == 'sitePage1')?>
+<section class="home" id="home" data-stellar-background-ratio="0.4">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<div class="st-home-unit">
+<div class="hero-txt">
+<p class="hero-work">Веб-дизайн - Веб-разработка - UX Дизайн</p>
+<h2 class="hero-title">ЛУЧШИЙ Шаблон для агенства</h2>
+<p class="hero-sub-title">Bootstrap обеспечивает высокое качество шаблона</p>
+<a href="#" class="btn btn-default btn-lg left-btn">Загрузить бесплатно</a>
+<a href="#" class="btn btn-main btn-lg">Узнать больше</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="mouse-icon"><div class="wheel"></div></div>
+</section>
+<?else?>
+<section class="headsection" data-stellar-background-ratio="0.6" style="background-position: 50% 0px;">
+<div class="container">
+<div class="row">
+<div class="col-md-12 text-center bigtitlehead">
+<h3>$MODULE_NAME$</h3>
+<a href="<?if($MODULE_ID$='blog' || $MODULE_ID$='photo')?><?if($MODULE_ID$='blog')?>#blog<?endif?><?if($MODULE_ID$='portfolio')?>#portfolio<?endif?><?else?>#gocontent<?endif?>" class="btn btn-main btn-lg">Смотреть</a>
+</div>
+</div>
+</div>
+</section>
+<?endif?>
+<!-- </global_promo> -->
+<section class="gocontent" id="gocontent">
+<div class="container">
+<div class="row">
+<div class="col-md-<?if($HIDE_CLEFTER$)?>12<?else?>8<?endif?>">[BODY]</div>
+<?if(!$HIDE_CLEFTER$)?>
+<div class="col-md-4">
+<div class="widgets">
+<!-- <container> -->
+<!-- <block> -->
+<div class="widget">
+<h2 class="widget-title">TITLE</h2>
+CONTENT
+</div>
+<!-- </block> -->
+<!-- </container> -->
+</div>
+</div>
+<?endif?>
+</section>
+<!-- </middle> -->
+
+<!-- <footer> -->
+<section class="subscribe">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<h3 class="subscribe-title">Подписаться на рассылку новостей</h3>
+<form role="form" class="subscribe-form" novalidate="true">
+<div class="input-group">
+<input type="email" class="form-control" placeholder="Введите E-mail..." name="EMAIL">
+<span class="input-group-btn">
+<button class="btn btn-main btn-lg" type="submit">Подписаться!</button>
+</span>
+</div>
+</form>
+<div class="subscribe-result"></div>
+<p class="subscribe-or">или</p>
+<ul class="subscribe-social">
+<li><a href="#" class="social twitter"><i class="fa fa-twitter"></i> Follow</a></li>
+<li><a href="#" class="social facebook"><i class="fa fa-facebook"></i> Like</a></li>
+<li><a href="#" class="social vk"><i class="fa fa-vk"></i> Нравится</a></li>
+<li><a href="#" class="social rss"><i class="fa fa-rss"></i> RSS</a></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<footer class="site-footer">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<a href="https://ugarts.pro">uGarts</a> | <a href="https://www.cantothemes.com">CantoThemes</a> | $POWERED_BY$
+<!-- So Please don't remove this -->
+</div>
+</div>
+</div>
+</footer>
+<!-- </footer> -->
+<!-- Scripts -->
+<script src="/js/bootstrap.min.js"></script>
+<script src="/js/jquery.easing.min.js"></script>
+<script src="/js/jquery.stellar.js"></script>
+<script src="/js/jquery.appear.js"></script>
+<script src="/js/jquery.nicescroll.min.js"></script>
+<script src="/js/jquery.countTo.js"></script>
+<script src="/js/owl.carousel.js"></script>
+<script src="/js/jquery.ajaxchimp.min.js"></script>
+<script src="/js/script.js"></script>
+</body>
+</html>
+
+<!-- <popup> -->
+<table border="0" cellpadding="2" cellspacing="1" style="background:#A9B8C2;" width="100%">
+<tr><td style="background:#D4DFF7;" align="center"><b>[TITLE]</b></td></tr>
+<tr><td align="center" style="background:#F4F4F4;padding:5px;">[BODY]</td></tr>
+</table>
+<!-- </popup> -->

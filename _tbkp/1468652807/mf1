@@ -1,0 +1,8 @@
+<div class="contact-form" role="form">
+ <input type="text" class="form-control" id="fname" type="text" name="f4" placeholder="Ваше полное имя">
+ <input type="email" class="form-control" id="email" type="text" name="f1" placeholder="Ваш e-mail">
+ <input type="text" class="form-control" id="subj" name="f2" size="30" maxlength="70" placeholder="Тема разговора">
+ <textarea id="mssg" name="f3" cols="30" placeholder="Ваше сообщение" class="form-control" rows="10"></textarea>
+ <div class="scif"><input type="text" name="f4" size="6" maxlength="5" placeholder="Код безопасности" class="form-control" rows="10">$SECURITY_CODE$</div>
+ <button class="btn btn-main btn-lg" type="submit" id="send" data-loading-text="<i class='fa fa-spinner fa-spin'></i> Отправление..."><i class="fa fa-paper-plane "></i> Отправить</button>
+ </div>

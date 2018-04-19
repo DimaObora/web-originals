@@ -1,0 +1,8 @@
+#uEntriesList .uEntryWrap {width: 25% !important;margin-top: -10px;}
+#uEntriesList .entryBlock {width: 100%;}
+.filter {margin: 0 0 3em;width: 100%;display: inline-block;}
+.filter .catsTable tr{display:inline-block;line-height: 50px;}
+.filter .catsTable .catName,.filter a.catNameActive{font-family: 'PT Sans Narrow', sans-serif;font-size: 18px;letter-spacing: 1px;border-radius: 40px;margin-right: 10px;border: 1px solid #e5e5e5;color: #333;padding: 8px 30px;margin-bottom: 10px;-webkit-transition: color 0.3s, background-color 0.3s, border-color 0.3s;transition: color 0.3s, background-color 0.3s, border-color 0.3s;}
+.filter .catsTable .catName:hover,.filter .catsTable .catName:focus,.filter a.catNameActive{background:#47B475;background-color: #33b5ac;border-color: #33b5ac;color: #fff;outline: none;}
+.filter .catsTable .catNumData{display: none;}
+@media only screen and (max-width: 767px) {#uEntriesList .uEntryWrap {width: 100% !important;}}

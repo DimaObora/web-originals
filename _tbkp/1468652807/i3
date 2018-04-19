@@ -1,0 +1,10 @@
+<li>
+<div class="recent-post clearfix">
+<a href="$ENTRY_URL$" class="post-thumb"><img src="$IMG_SMALL_URL1$" alt="$IMG1_ALT$" title="$IMG1_TITLE$"></a>
+<h2 class="post-title"><a href="$ENTRY_URL$">$TITLE$</a></h2>
+<div class="post-meta">
+<span class="author"><a href="$PROFILE_URL$">$USERNAME$</a></span>
+<?if($CATEGORY_NAME$)?><span>Добавлено в <a href="$CATEGORY_URL$">$CATEGORY_NAME$</a></span><?endif?>
+</div>
+</div>
+</li>

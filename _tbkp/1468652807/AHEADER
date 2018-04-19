@@ -1,0 +1,23 @@
+
+<header class="st-navbar">
+<nav class="navbar navbar-default navbar-fixed-top clearfix" role="navigation">
+<div class="container">
+<div class="navbar-header">
+<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#sept-main-nav">
+<span class="sr-only">Навигация</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<a class="navbar-brand" href="/"><img src="/photos/logo3.png" alt="" class="img-responsive"></a>
+</div>
+<!-- <sblock_nmenu> -->
+<?if($NMENU_1$)?>
+<div class="collapse navbar-collapse main-nav" id="sept-main-nav">
+<?if($NMENU_1$)?><!-- <bc> -->$NMENU_1$<!-- </bc> --><?endif?>
+</div>
+<?endif?>
+<!-- </sblock_nmenu> -->
+</div>
+</nav>
+</header>

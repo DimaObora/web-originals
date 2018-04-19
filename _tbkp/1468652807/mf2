@@ -1,0 +1,7 @@
+<table border="0" width="100%" id="table1" cellspacing="1" cellpadding="2">
+<tr><td width="35%">E-mail отправителя <font color="red">*</font>:</td><td><input type="text" name="f1" size="30" style="width:95%;" maxlength="70"> </td></tr>
+<tr><td>Тема письма:</td><td><input type="text" name="f2" size="30" style="width:95%;" maxlength="70"> </td></tr>
+<tr><td>Текст сообщения <font color="red">*</font>:</td><td><textarea rows="7" name="f3" cols="30" style="width:95%;"></textarea> </td></tr>
+<tr><td>Код безопасности <font color="red">*</font>:</td><td><input type="text" name="f4" size="6" maxlength="5"> $SECURITY_CODE$</td></tr>
+<tr><td colspan="2" align="center"><br /><input type="submit" value="Отправить сообщение"></td></tr>
+</table>
