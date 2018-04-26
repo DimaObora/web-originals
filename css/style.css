@@ -8,11 +8,12 @@
  * -------------------------------------------------------------------
  * This theme under "Attribution-NonCommercial CC BY-NC". You can't remove footer credit link.
  */
+
 body {
   font-family: "Open Sans";
   color: #808080;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 26px;
   word-spacing: 2px;
   -webkit-font-smoothing: antialiased;
@@ -208,10 +209,11 @@ h6 {
 }
 .img-responsive {
   display: inline-block;
-  max-width: 100%;
+  max-width: 76%;
   height: auto;
   *display: inline;
   *zoom: 1;
+
 }
 .btn {
   font-family: 'PT Sans Narrow', sans-serif;
@@ -349,6 +351,8 @@ h6 {
   height: 51px;
   background-image: url(../images/title-top.png);
   background-repeat: no-repeat;
+  background-size: 65%;
+  background-position: 26px 0;
 }
 .bottom-line {
   margin-bottom: 20px;
@@ -472,7 +476,7 @@ h6 {
   text-align: center;
 }
 .home .hero-txt .hero-title {
-  font-family: 'PT Sans Narrow', sans-serif;
+  font-family: 'titel';
   color: #fff;
   text-transform: uppercase;
   font-size: 70px;
@@ -485,7 +489,7 @@ h6 {
   padding: 20px 10px;
 }
 .home .hero-txt .hero-work {
-  font-family: 'PT Sans Narrow', sans-serif;
+  font-family: 'Broken Planewing', arial;
   font-weight: 300;
   letter-spacing: 2px;
   margin-bottom: 0;
@@ -508,11 +512,11 @@ h6 {
   margin-right: 20px !important;
 }
 .home .hero-txt .hero-sub-title {
-  font-family: 'PT Sans Narrow', sans-serif;
-  font-size: 30px;
+  font-size: 50px;
   letter-spacing: 5px;
   font-weight: 300;
-  margin-bottom: 70px;
+  margin-bottom: 45px;
+  margin-top: 45px;
 }
 .home .hero-txt .hero-img {
   margin-top: 80px;
@@ -900,7 +904,7 @@ h6 {
 .st-feature {
   text-align: center;
 }
-.st-feature .st-feature-icon {
+.st-feature .st-feature-icon{
   width: 102px;
   line-height: 100px;
   /*font-size: 42px;*/
@@ -966,9 +970,10 @@ ul.styled-list.list-star li:before {
 }
 .call-2-acction {
   padding: 100px 0;
-  background-image: url(../images/c2a.png);
+  background-image: url(../images/fon_cvetok_svetlyy_bleklyy_36851_2560x1600.jpg);
   background-attachment: fixed;
   background-color: #000;
+  background-size: 100%;
 }
 .c2a {
   margin: 0 auto;
@@ -1145,10 +1150,10 @@ width: 25%;
 }
 .testimonials {
   padding: 100px 0;
-  background-image: url(../images/testimonials.png);
-  background-size: cover;
+  background-image: url(../images/f1fea467ef5d227.jpg);
   background-attachment: fixed;
   background-color: #000;
+  background-size: 150%;
   color: #fff;
 }
 .testimonial .testimonial-img {
@@ -1683,4 +1688,18 @@ input[type=file] {
 }
 .icon-job{
   width: 75%;
+}
+.fonts{
+  font-family: 'Broken Planewing', arial;
+}
+#map {
+  width: 100%;
+  height: 500px;
+}
+.client{
+  max-width: 120%;
+}
+.imag-about{
+  max-width: 100%;
+
 }
