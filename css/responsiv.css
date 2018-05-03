@@ -1,0 +1,26 @@
+@media only screen and (max-width: 576px){
+    .home .hero-txt .hero-title {
+        font-family: 'titel';
+        color: #fff;
+        text-transform: uppercase;
+        font-size: 31px;
+        line-height: 45px;
+        font-weight: 400;
+        letter-spacing: 4px;
+        word-spacing: 2px;
+        margin-bottom: 0px;
+        margin-top: 0px;
+        padding: 20px 10px;
+    }
+    .home {
+        padding: 9vh 0;
+    }
+    .home .hero-txt .hero-sub-title {
+        font-size: 49px;
+        letter-spacing: 5px;
+        font-weight: 300;
+        margin-bottom: 30px;
+        margin-top: 30px;
+        line-height: 0.9;
+    }
+}
