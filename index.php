@@ -1,3 +1,5 @@
+<?php
+?>
 <!DOCTYPE html>
 <html lang="ru">
 <head>
@@ -8,18 +10,18 @@
     <link href="http://allfont.ru/allfont.css?fonts=broken-planewing" rel="stylesheet" type="text/css"/>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css"
           integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
-    <link type="text/css" rel="StyleSheet" href="css/style.css"/>
-    <link type="text/css" rel="StyleSheet" href="css/owl.carousel.css"/>
-    <link type="text/css" rel="StyleSheet" href="css/owl.theme.css"/>
-    <link type="text/css" rel="StyleSheet" href="css/owl.transitions.css"/>
-    <link type="text/css" rel="StyleSheet" href="css/responsiv.css"/>
+    <link type="text/css" rel="StyleSheet" href="<?php echo get_template_directory_uri(); ?>/css/style.css"/>
+    <link type="text/css" rel="StyleSheet" href="<?php echo get_template_directory_uri(); ?>/css/owl.carousel.css"/>
+    <link type="text/css" rel="StyleSheet" href="<?php echo get_template_directory_uri(); ?>/css/owl.theme.css"/>
+    <link type="text/css" rel="StyleSheet" href="<?php echo get_template_directory_uri(); ?>/css/owl.transitions.css"/>
+    <link type="text/css" rel="StyleSheet" href="<?php echo get_template_directory_uri(); ?>/css/responsiv.css"/>
     <!--[if lt IE 9]>
-    <script src="/js/html5shiv.min.js"></script>
-    <script src="/js/respond.min.js"></script>
+    <script src="<?php echo get_template_directory_uri(); ?>/js/html5shiv.min.js"></script>
+    <script src="<?php echo get_template_directory_uri(); ?>/js/respond.min.js"></script>
     <![endif]-->
 
-    <script type="text/javascript" src="js/jquery.min.js"></script>
-    <link href="css/nanogallery2.min.css" rel="stylesheet" type="text/css">
+    <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/jquery.min.js"></script>
+    <link href="<?php echo get_template_directory_uri(); ?>/css/nanogallery2.min.css" rel="stylesheet" type="text/css">
     <script type="text/javascript" src="//s24.ucoz.net/cgi/uutils.fcg?a=uSD&ca=2&ug=999&r=0.789152693007765"></script>
     <script type="text/javascript">//------------UCOZ-JS-CODE-----------
     window.ulb = {
@@ -29,7 +31,7 @@
         next: "Вперед",
         prev: "Предыдущий",
         btnPlay: "Начать слайдшоу",
-        btnToggle: "Изменить размер",
+        btnToggle: "Изменить размер"
     };
     //------------UCOZ-JS-END-----------
     </script>
@@ -147,7 +149,7 @@
                                 обсудить вопросы сотрудничества.</p>
                         </div>
                         <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6">
-                            <img src="photos/about.jpg" alt="" class="img-responsive">
+                            <img src="<?php echo get_template_directory_uri(); ?>/photos/about.jpg" alt="" class="img-responsive">
                         </div>
                     </div>
                 </div>
@@ -166,7 +168,7 @@
             </div>
             <div class="row">
                 <div class="col-xl-5 col-lg-5 col-md-5 col-sm-5">
-                    <img src="images/000806367.jpg" alt="" class="imag-about">
+                    <img src="<?php echo get_template_directory_uri(); ?>/images/000806367.jpg" alt="" class="imag-about">
                 </div>
                 <div class="col-xl-7 col-lg-7 col-md-7 col-sm-7">
                     <p>В интернете – много проектов, но почему пользуются популярностью не все, к продающим сайтам можно
@@ -213,7 +215,7 @@
                     <div class="row">
                         <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6">
                             <div class="st-feature">
-                                <div class="st-feature-icon"><img class="icon-job" src="images/site-vizitka.png"
+                                <div class="st-feature-icon"><img class="icon-job" src="<?php echo get_template_directory_uri(); ?>/images/site-vizitka.png"
                                                                   alt="Сайт-визитка"></div>
                                 <strong class="st-feature-title">Сайт - визитка</strong>
                                 <ul style="text-align:left">
@@ -226,7 +228,7 @@
                         </div>
                         <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6">
                             <div class="st-feature">
-                                <div class="st-feature-icon"><img class="icon-job" src="images/landing-page.png"
+                                <div class="st-feature-icon"><img class="icon-job" src="<?php echo get_template_directory_uri(); ?>/images/landing-page.png"
                                                                   alt="landing-page"></div>
                                 <strong class="st-feature-title">Landing page</strong>
                                 <ul style="text-align: justify">
@@ -239,7 +241,7 @@
                         </div>
                         <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6">
                             <div class="st-feature">
-                                <div class="st-feature-icon"><img class="icon-job" src="images/korporativniy-site.png"
+                                <div class="st-feature-icon"><img class="icon-job" src="<?php echo get_template_directory_uri(); ?>/images/korporativniy-site.png"
                                                                   alt="Корпоративный"></div>
                                 <strong class="st-feature-title">Корпоративный</strong>
                                 <ul style="text-align: justify">
@@ -252,7 +254,7 @@
                         </div>
                         <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6">
                             <div class="st-feature">
-                                <div class="st-feature-icon"><img class="icon-job" src="images/internet-magazin.png"
+                                <div class="st-feature-icon"><img class="icon-job" src="<?php echo get_template_directory_uri(); ?>/images/internet-magazin.png"
                                                                   alt="Интернет магазина"></div>
                                 <strong class="st-feature-title">Интернет магазина</strong>
                                 <ul style="text-align: justify" class="border-text">
@@ -282,7 +284,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-xl-5 col-lg-5 col-md-5 col-sm-12">
-                    <img src="images/seo.png" alt="" class="img-responsive">
+                    <img src="<?php echo get_template_directory_uri(); ?>/images/seo.png" alt="" class="img-responsive">
                 </div>
                 <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12">
                     <h3 class="bottom-line">Продвижение сайтов</h3>
@@ -323,16 +325,16 @@
         "gallerySorting": "random"
       }'>
 
-                            <a href="images/imac1.png" data-ngThumb="images/imac1-min.png"></a>
-                            <a href="images/doverie-rostov.png" data-ngThumb="images/doverie-rostov-min.png"></a>
-                            <a href="images/doverie.png" data-ngThumb="images/doverie-min.png"></a>
-                            <a href="images/stroy-hous.png" data-ngThumb="images/stroy-hous-min.png"></a>
-                            <a href="images/hous-kras.png" data-ngThumb="images/hous-kras-min.png"></a>
-                            <a href="images/doverie-kras.png" data-ngThumb="images/doverie-kras-min.png"></a>
-                            <a href="images/zolushka.png" data-ngThumb="images/zolushka-min.png"></a>
-                            <a href="images/santal.png" data-ngThumb="images/santal-min.png"></a>
-                            <a href="images/hookah-originals.ru_.png" data-ngThumb="images/hookah-originals.-min.png"></a>
-                            <a href="images/doctor-sergeeva.png" data-ngThumb="images/doctor-sergeeva.ru-min.png"></a>
+                            <a href="<?php echo get_template_directory_uri(); ?>/images/imac1.png" data-ngThumb="<?php echo get_template_directory_uri(); ?>/images/imac1-min.png"></a>
+                            <a href="<?php echo get_template_directory_uri(); ?>/images/doverie-rostov.png" data-ngThumb="<?php echo get_template_directory_uri(); ?>/images/doverie-rostov-min.png"></a>
+                            <a href="<?php echo get_template_directory_uri(); ?>/images/doverie.png" data-ngThumb="<?php echo get_template_directory_uri(); ?>/images/doverie-min.png"></a>
+                            <a href="<?php echo get_template_directory_uri(); ?>/images/stroy-hous.png" data-ngThumb="<?php echo get_template_directory_uri(); ?>/images/stroy-hous-min.png"></a>
+                            <a href="<?php echo get_template_directory_uri(); ?>/images/hous-kras.png" data-ngThumb="<?php echo get_template_directory_uri(); ?>/images/hous-kras-min.png"></a>
+                            <a href="<?php echo get_template_directory_uri(); ?>/images/doverie-kras.png" data-ngThumb="<?php echo get_template_directory_uri(); ?>/images/doverie-kras-min.png"></a>
+                            <a href="<?php echo get_template_directory_uri(); ?>/images/zolushka.png" data-ngThumb="<?php echo get_template_directory_uri(); ?>/images/zolushka-min.png"></a>
+                            <a href="<?php echo get_template_directory_uri(); ?>/images/santal.png" data-ngThumb="<?php echo get_template_directory_uri(); ?>/images/santal-min.png"></a>
+                            <a href="<?php echo get_template_directory_uri(); ?>/images/hookah-originals.ru_.png" data-ngThumb="<?php echo get_template_directory_uri(); ?>/images/hookah-originals.-min.png"></a>
+                            <a href="<?php echo get_template_directory_uri(); ?>/images/doctor-sergeeva.png" data-ngThumb="<?php echo get_template_directory_uri(); ?>/images/doctor-sergeeva.ru-min.png"></a>
                         </div>
                     </div>
                 </div>
@@ -348,14 +350,14 @@
                         <p>С которыми сотрудничаем и сейчас</p>
                     </div>
                     <ul class="clients-carousel">
-                        <li><img src="photos/client.png" class="img-responsive client" alt=""></li>
-                        <li><img src="photos/client2.png" class="img-responsive client" alt=""></li>
-                        <li><img src="photos/client3.png" class="img-responsive client" alt=""></li>
-                        <li><img src="photos/client4.png" class="img-responsive client" alt=""></li>
-                        <li><img src="photos/client5.png" class="img-responsive client" alt=""></li>
-                        <li><img src="photos/logo.png" class="img-responsive client" alt=""></li>
-                        <li><img src="photos/client6.png" class="img-responsive client" alt=""></li>
-                        <li><img src="photos/client7.png" class="img-responsive client" alt=""></li>
+                        <li><img src="<?php echo get_template_directory_uri(); ?>/photos/client.png" class="img-responsive client" alt=""></li>
+                        <li><img src="<?php echo get_template_directory_uri(); ?>/photos/client2.png" class="img-responsive client" alt=""></li>
+                        <li><img src="<?php echo get_template_directory_uri(); ?>/photos/client3.png" class="img-responsive client" alt=""></li>
+                        <li><img src="<?php echo get_template_directory_uri(); ?>/photos/client4.png" class="img-responsive client" alt=""></li>
+                        <li><img src="<?php echo get_template_directory_uri(); ?>/photos/client5.png" class="img-responsive client" alt=""></li>
+                        <li><img src="<?php echo get_template_directory_uri(); ?>/photos/logo.png" class="img-responsive client" alt=""></li>
+                        <li><img src="<?php echo get_template_directory_uri(); ?>/photos/client6.png" class="img-responsive client" alt=""></li>
+                        <li><img src="<?php echo get_template_directory_uri(); ?>/photos/client7.png" class="img-responsive client" alt=""></li>
 
                     </ul>
                 </div>
@@ -371,7 +373,7 @@
                             <li>
                                 <div class="testimonial">
                                     <div class="testimonial-img">
-                                        <img src="photos/client.jpg" alt="">
+                                        <img src="<?php echo get_template_directory_uri(); ?>/photos/client.jpg" alt="">
                                     </div>
                                     <blockquote>
                                         <p>Tueri tantis inter variis deterritum facta caret pleniorem, efficiat affert
@@ -384,7 +386,7 @@
                             <li>
                                 <div class="testimonial">
                                     <div class="testimonial-img">
-                                        <img src="photos/client2.jpg" alt="">
+                                        <img src="<?php echo get_template_directory_uri(); ?>/photos/client2.jpg" alt="">
                                     </div>
                                     <blockquote>
                                         <p>Contrariis labore vetuit scaevola, contra percurri adamare efficeret quibus.
@@ -398,7 +400,7 @@
                             <li>
                                 <div class="testimonial">
                                     <div class="testimonial-img">
-                                        <img src="photos/client3.jpg" alt="">
+                                        <img src="<?php echo get_template_directory_uri(); ?>/photos/client3.jpg" alt="">
                                     </div>
                                     <blockquote>
                                         <p>Illas, volumus prosperum. Nostras eoque statua cuius corrumpit praetor aliter
@@ -646,16 +648,17 @@
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"
         integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm"
         crossorigin="anonymous"></script>
-<script type="text/javascript" src="js/jquery.nanogallery2.min.js"></script>
-<script src="js/jquery.easing.min.js"></script>
-<script src="js/jquery.stellar.js"></script>
-<script src="js/jquery.appear.js"></script>
-<script src="js/jquery.nicescroll.min.js"></script>
-<script src="js/jquery.countTo.js"></script>
-<script src="js/owl.carousel.js"></script>
-<script src="js/jquery.ajaxchimp.min.js"></script>
-<script src="js/script.js"></script>
-<script src="js/main.js"></script>
+<script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/jquery.nanogallery2.min.js"></script>
+<script src="<?php echo get_template_directory_uri(); ?>/js/jquery.easing.min.js"></script>
+<script src="<?php echo get_template_directory_uri(); ?>/js/jquery.stellar.js"></script>
+<script src="<?php echo get_template_directory_uri(); ?>/js/jquery.appear.js"></script>
+<script src="<?php echo get_template_directory_uri(); ?>/js/jquery.nicescroll.min.js"></script>
+<script src="<?php echo get_template_directory_uri(); ?>/js/jquery.countTo.js"></script>
+<script src="<?php echo get_template_directory_uri(); ?>/js/owl.carousel.js"></script>
+<script src="<?php echo get_template_directory_uri(); ?>/js/jquery.ajaxchimp.min.js"></script>
+<script src="<?php echo get_template_directory_uri(); ?>/js/script.js"></script>
+<script src="<?php echo get_template_directory_uri(); ?>/js/main.js"></script>
+<input type="hidden" id="ThemePath" value="<?php echo get_template_directory_uri(); ?>/">
 </body>
 </html>
 <div id="utbr8214" rel="s24"></div>
