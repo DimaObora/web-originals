@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec4c8586-7b17-4d54-83bb-234c13b08add" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="ec4c8586-7b17-4d54-83bb-234c13b08add" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,8 +18,8 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="639" column="6" lean-forward="true" selection-start-line="639" selection-start-column="6" selection-end-line="639" selection-end-column="6" />
+            <state relative-caret-position="6800">
+              <caret line="400" column="57" lean-forward="true" selection-start-line="400" selection-start-column="31" selection-end-line="400" selection-end-column="57" />
               <folding>
                 <marker date="1527792650527" expanded="true" signature="28789:28823" ph="..." />
                 <marker date="1527792650527" expanded="true" signature="28854:28860" ph="..." />
@@ -35,21 +32,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+              <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
               <folding>
                 <marker date="1527792839931" expanded="true" signature="793:799" ph=" " />
                 <marker date="1527792839931" expanded="true" signature="799:805" ph=" " />
@@ -192,12 +179,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527787854838</updated>
-      <workItem from="1527787858699" duration="2875000" />
+      <workItem from="1527787858699" duration="3603000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2875000" />
+    <option name="totallyTimeSpent" value="3603000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -233,22 +220,18 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/main.js">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-          <folding>
-            <marker date="1527792839931" expanded="true" signature="793:799" ph=" " />
-            <marker date="1527792839931" expanded="true" signature="799:805" ph=" " />
-            <marker date="1527792839931" expanded="true" signature="805:811" ph=" " />
-          </folding>
+        <state relative-caret-position="17">
+          <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="639" column="6" lean-forward="true" selection-start-line="639" selection-start-column="6" selection-end-line="639" selection-end-column="6" />
+        <state relative-caret-position="6800">
+          <caret line="400" column="57" lean-forward="true" selection-start-line="400" selection-start-column="31" selection-end-line="400" selection-end-column="57" />
           <folding>
             <marker date="1527792650527" expanded="true" signature="28789:28823" ph="..." />
             <marker date="1527792650527" expanded="true" signature="28854:28860" ph="..." />
@@ -260,11 +243,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-          <folding />
+        <state relative-caret-position="238">
+          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding>
+            <marker date="1527792839931" expanded="true" signature="793:799" ph=" " />
+            <marker date="1527792839931" expanded="true" signature="799:805" ph=" " />
+            <marker date="1527792839931" expanded="true" signature="805:811" ph=" " />
+          </folding>
         </state>
       </provider>
     </entry>
