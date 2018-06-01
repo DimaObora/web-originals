@@ -2,9 +2,69 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec4c8586-7b17-4d54-83bb-234c13b08add" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/des-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/des-262x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/des-768x879.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/des.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/doctor-sergeeva-106x300.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/doctor-sergeeva-150x150.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/doctor-sergeeva-360x1024.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/doctor-sergeeva-768x2183.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/doctor-sergeeva.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/doverie-150x150.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/doverie-287x1024.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/doverie-768x2738.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/doverie-84x300.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/doverie-kras-132x300.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/doverie-kras-150x150.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/doverie-kras-452x1024.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/doverie-kras-768x1740.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/doverie-kras.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/doverie-rostov-150x150.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/doverie-rostov-190x1024.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/doverie-rostov-56x300.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/doverie-rostov-768x4132.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/doverie-rostov.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/doverie.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/hookah-originals.ru_-150x150.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/hookah-originals.ru_-152x300.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/hookah-originals.ru_-519x1024.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/hookah-originals.ru_-768x1515.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/hookah-originals.ru_.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/hous-kras-150x150.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/hous-kras-157x300.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/hous-kras-537x1024.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/hous-kras-768x1463.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/hous-kras.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/imac1-102x300.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/imac1-150x150.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/imac1-348x1024.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/imac1-768x2262.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/imac1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/santal-140x300.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/santal-150x150.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/santal-478x1024.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/santal-768x1645.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/santal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/spu-ea68c8-ogi2-3cwn3bmfojjlb56e-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/spu-ea68c8-ogi2-3cwn3bmfojjlb56e-189x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/spu-ea68c8-ogi2-3cwn3bmfojjlb56e-647x1024.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/spu-ea68c8-ogi2-3cwn3bmfojjlb56e-768x1216.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/spu-ea68c8-ogi2-3cwn3bmfojjlb56e.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/stroy-hous-124x300.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/stroy-hous-150x150.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/stroy-hous-422x1024.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/stroy-hous-768x1864.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/stroy-hous.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/zolushka-120x300.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/zolushka-150x150.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/zolushka-410x1024.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/zolushka-768x1920.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/uploads/2018/06/zolushka.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/advanced-custom-field.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import/web-originals.wordpress.2018-06-01.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readme.md" afterPath="$PROJECT_DIR$/readme.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -33,9 +93,10 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="306" column="5" lean-forward="true" selection-start-line="306" selection-start-column="5" selection-end-line="306" selection-end-column="5" />
+            <state relative-caret-position="-5104">
+              <caret line="305" column="14" lean-forward="true" selection-start-line="305" selection-start-column="14" selection-end-line="305" selection-end-column="14" />
               <folding>
+                <element signature="n#style#0;n#p#1;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <marker date="1527852679384" expanded="true" signature="26032:26066" ph="..." />
                 <marker date="1527852679384" expanded="true" signature="26097:26103" ph="..." />
                 <marker date="1527852679384" expanded="true" signature="26097:26141" ph="..." />
@@ -47,22 +108,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="template-projects.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="template-projects.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template-projects.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+            <state relative-caret-position="102">
+              <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="readme.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="102">
-                <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <first_editor relative-caret-position="309">
+                <caret line="35" column="57" lean-forward="false" selection-start-line="35" selection-start-column="57" selection-end-line="35" selection-end-column="57" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -99,9 +160,10 @@
       <list>
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/readme.md" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/template-projects.php" />
+        <option value="$PROJECT_DIR$/import/cptui" />
+        <option value="$PROJECT_DIR$/readme.md" />
       </list>
     </option>
   </component>
@@ -145,6 +207,20 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web-originals" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web-originals" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="import" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -156,6 +232,14 @@
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="C:\nodejs\node.exe" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\web-originals\wp-content\themes\web-originals\import" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\web-originals\wp-content\themes\web-originals\import" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
@@ -219,12 +303,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527787854838</updated>
-      <workItem from="1527787858699" duration="8853000" />
+      <workItem from="1527787858699" duration="11143000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8853000" />
+    <option name="totallyTimeSpent" value="11143000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -279,6 +363,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/import/advanced-custom-field.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/import/cptui">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1117" lean-forward="false" selection-start-line="0" selection-start-column="1117" selection-end-line="0" selection-end-column="1117" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -291,22 +391,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="102">
-            <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="306" column="5" lean-forward="true" selection-start-line="306" selection-start-column="5" selection-end-line="306" selection-end-column="5" />
+        <state relative-caret-position="-5104">
+          <caret line="305" column="14" lean-forward="true" selection-start-line="305" selection-start-column="14" selection-end-line="305" selection-end-column="14" />
           <folding>
+            <element signature="n#style#0;n#p#1;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <marker date="1527852679384" expanded="true" signature="26032:26066" ph="..." />
             <marker date="1527852679384" expanded="true" signature="26097:26103" ph="..." />
             <marker date="1527852679384" expanded="true" signature="26097:26141" ph="..." />
@@ -319,9 +409,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/template-projects.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        <state relative-caret-position="102">
+          <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="309">
+            <caret line="35" column="57" lean-forward="false" selection-start-line="35" selection-start-column="57" selection-end-line="35" selection-end-column="57" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
