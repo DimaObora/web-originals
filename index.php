@@ -304,43 +304,11 @@
             </div>
         </div>
     </section>
+<?php
+    //наши проекты
+    get_template_part('template-projects','none');
+?>
 
-    <section class="call-2-acction gradient-background">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
-                    <div class="c2a">
-                        <h2>Некоторые наши проекты</h2>
-                        <div data-nanogallery2='{
-       "itemsBaseURL": "../now-web/",
-         "thumbnailHeight": "auto",
-        "thumbnailLabel": {
-          "titleMultiLine": true,
-          "displayDescription": true,
-          "descriptionMultiLine": true
-        },
-        "thumbnailHoverEffect2": "toolsSlideDown|toolsSlideUp|scale120",
-        "galleryDisplayMode": "rows",
-        "thumbnailAlignment": "center",
-        "gallerySorting": "random"
-      }'>
-
-                            <a href="<?php echo get_template_directory_uri(); ?>/images/imac1.png" data-ngThumb="<?php echo get_template_directory_uri(); ?>/images/imac1-min.png"></a>
-                            <a href="<?php echo get_template_directory_uri(); ?>/images/doverie-rostov.png" data-ngThumb="<?php echo get_template_directory_uri(); ?>/images/doverie-rostov-min.png"></a>
-                            <a href="<?php echo get_template_directory_uri(); ?>/images/doverie.png" data-ngThumb="<?php echo get_template_directory_uri(); ?>/images/doverie-min.png"></a>
-                            <a href="<?php echo get_template_directory_uri(); ?>/images/stroy-hous.png" data-ngThumb="<?php echo get_template_directory_uri(); ?>/images/stroy-hous-min.png"></a>
-                            <a href="<?php echo get_template_directory_uri(); ?>/images/hous-kras.png" data-ngThumb="<?php echo get_template_directory_uri(); ?>/images/hous-kras-min.png"></a>
-                            <a href="<?php echo get_template_directory_uri(); ?>/images/doverie-kras.png" data-ngThumb="<?php echo get_template_directory_uri(); ?>/images/doverie-kras-min.png"></a>
-                            <a href="<?php echo get_template_directory_uri(); ?>/images/zolushka.png" data-ngThumb="<?php echo get_template_directory_uri(); ?>/images/zolushka-min.png"></a>
-                            <a href="<?php echo get_template_directory_uri(); ?>/images/santal.png" data-ngThumb="<?php echo get_template_directory_uri(); ?>/images/santal-min.png"></a>
-                            <a href="<?php echo get_template_directory_uri(); ?>/images/hookah-originals.ru_.png" data-ngThumb="<?php echo get_template_directory_uri(); ?>/images/hookah-originals.-min.png"></a>
-                            <a href="<?php echo get_template_directory_uri(); ?>/images/doctor-sergeeva.png" data-ngThumb="<?php echo get_template_directory_uri(); ?>/images/doctor-sergeeva.ru-min.png"></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
     <section class="clients">
         <div class="container">
             <div class="row">
