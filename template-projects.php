@@ -1,8 +1,8 @@
 <?php
 $args = array('posts_per_page' => -1, 'post_type' => 'projects');
 $myposts = get_posts($args);
-?>
-
+if (count($myposts) > 0) {
+    ?>
     <section class="call-2-acction gradient-background">
         <div class="container">
             <div class="row">
@@ -37,6 +37,7 @@ $myposts = get_posts($args);
             </div>
         </div>
     </section>
-<?php
+    <?php
+}
 wp_reset_postdata();
 ?>
