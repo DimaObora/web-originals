@@ -27,7 +27,7 @@ if (count($myposts) > 0) {
                                 setup_postdata($post);
                                 ?>
                                 <a href="<?php echo wp_get_attachment_image_url(get_post_meta($post->ID, "image_project", true), 'full'); ?>"
-                                   data-ngThumb="<?php echo wp_get_attachment_image_url(get_post_meta($post->ID, "image_project", true), 'thumbnail'); ?>"></a>
+                                   data-ngThumb="<?php echo wp_get_attachment_image_url(get_post_meta($post->ID, "min_image_project", true), 'full'); ?>"></a>
                                 <?php
                             }
                             ?>
