@@ -647,6 +647,10 @@ h6 {
 .about {
   padding: 100px 0 0;
 }
+
+.post-section {
+  padding: 100px 0 0;
+}
 .st-member {
   position: relative;
   overflow: hidden;
