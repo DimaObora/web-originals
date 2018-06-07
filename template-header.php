@@ -25,9 +25,20 @@
                     'container_id' => 'navbarSupportedContent',
                     'items_wrap' => '<ul id="%1$s" class="%2$s navbar-nav m-auto">%3$s</ul>
                                     <div class="form-inline my-2 my-lg-0">
-                                    <a class="phone " href="tel:+79002475139">+7(900)24-75-139</a>',
+                                    <a class="phone " href="tel:+79002475139">+7(900)24-75-139</a></div>',
                     'walker' => new Walker_Primary_Menu()
                 ));
+            } else {
+                ?>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav m-auto">
+
+                    </ul>
+                    <div class="form-inline my-2 my-lg-0">
+                        <a class="phone " href="tel:+79002475139">+7(900)24-75-139</a>
+                    </div>
+                </div>
+                <?php
             }
             ?>
         </div>

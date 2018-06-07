@@ -72,10 +72,8 @@ class Walker_Primary_Menu extends Walker_Nav_Menu {
 
         /*
          * Генерируем элемент меню
-         * todo: нужна проверка ибо выводит пустой элемент
          * todo: нужно добавить класс актив к активной ссылке или это делается не здесь
          */
-//        var_dump($item);
         $output .= $indent . '<li' . $id . $value . $class_names .'>';
 
         // атрибуты элемента, title="", rel="", target="" и href=""
