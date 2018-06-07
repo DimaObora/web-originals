@@ -2,68 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec4c8586-7b17-4d54-83bb-234c13b08add" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/des-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/des-262x300.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/des-768x879.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/des.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/doctor-sergeeva-106x300.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/doctor-sergeeva-150x150.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/doctor-sergeeva-360x1024.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/doctor-sergeeva-768x2183.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/doctor-sergeeva.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/doverie-150x150.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/doverie-287x1024.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/doverie-768x2738.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/doverie-84x300.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/doverie-kras-132x300.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/doverie-kras-150x150.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/doverie-kras-452x1024.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/doverie-kras-768x1740.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/doverie-kras.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/doverie-rostov-150x150.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/doverie-rostov-190x1024.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/doverie-rostov-56x300.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/doverie-rostov-768x4132.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/doverie-rostov.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/doverie.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/hookah-originals.ru_-150x150.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/hookah-originals.ru_-152x300.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/hookah-originals.ru_-519x1024.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/hookah-originals.ru_-768x1515.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/hookah-originals.ru_.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/hous-kras-150x150.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/hous-kras-157x300.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/hous-kras-537x1024.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/hous-kras-768x1463.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/hous-kras.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/imac1-102x300.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/imac1-150x150.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/imac1-348x1024.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/imac1-768x2262.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/imac1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/santal-140x300.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/santal-150x150.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/santal-478x1024.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/santal-768x1645.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/santal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/spu-ea68c8-ogi2-3cwn3bmfojjlb56e-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/spu-ea68c8-ogi2-3cwn3bmfojjlb56e-189x300.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/spu-ea68c8-ogi2-3cwn3bmfojjlb56e-647x1024.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/spu-ea68c8-ogi2-3cwn3bmfojjlb56e-768x1216.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/spu-ea68c8-ogi2-3cwn3bmfojjlb56e.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/stroy-hous-124x300.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/stroy-hous-150x150.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/stroy-hous-422x1024.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/stroy-hous-768x1864.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/stroy-hous.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/zolushka-120x300.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/zolushka-150x150.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/zolushka-410x1024.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/zolushka-768x1920.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import/uploads/2018/06/zolushka.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/import/advanced-custom-field.xml" afterPath="$PROJECT_DIR$/import/advanced-custom-field.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readme.md" afterPath="$PROJECT_DIR$/readme.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/functions.php" afterPath="$PROJECT_DIR$/functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template-header.php" afterPath="$PROJECT_DIR$/template-header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template-projects.php" afterPath="$PROJECT_DIR$/template-projects.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -89,11 +31,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-680">
-              <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+            <state relative-caret-position="226">
+              <caret line="85" column="43" lean-forward="true" selection-start-line="85" selection-start-column="43" selection-end-line="85" selection-end-column="43" />
               <folding>
                 <element signature="e#6#87#0#PHP" expanded="true" />
               </folding>
@@ -101,27 +43,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/readme.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="451">
-                <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="template-header.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template-header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="27" column="15" lean-forward="true" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
+            <state relative-caret-position="323">
+              <caret line="19" column="30" lean-forward="true" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
               <folding>
-                <element signature="e#6#87#0#PHP" expanded="true" />
-                <marker date="1528320551090" expanded="true" signature="1114:1176" ph="..." />
+                <element signature="e#6#130#0#PHP" expanded="true" />
+                <marker date="1528331660618" expanded="true" signature="1157:1219" ph="..." />
               </folding>
             </state>
           </provider>
@@ -130,8 +59,8 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="23" column="28" lean-forward="true" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+            <state relative-caret-position="68">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -140,8 +69,8 @@
       <file leaf-file-name="template-projects.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template-projects.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="33" lean-forward="true" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+            <state relative-caret-position="119">
+              <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -150,8 +79,8 @@
       <file leaf-file-name="template-section.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template-section.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="427">
-              <caret line="31" column="10" lean-forward="true" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+            <state relative-caret-position="306">
+              <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
               <folding>
                 <element signature="e#6#143#0#PHP" expanded="true" />
                 <marker date="1528327224030" expanded="true" signature="413:514" ph="..." />
@@ -223,15 +152,15 @@
         <option value="$PROJECT_DIR$/template-footer.php" />
         <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/footer.php" />
-        <option value="$PROJECT_DIR$/template-header.php" />
         <option value="$PROJECT_DIR$/template-faq-sec.php" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/functions.php" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/template-section.php" />
         <option value="$PROJECT_DIR$/import/advanced-custom-field.xml" />
-        <option value="$PROJECT_DIR$/template-projects.php" />
         <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/template-projects.php" />
+        <option value="$PROJECT_DIR$/template-header.php" />
+        <option value="$PROJECT_DIR$/functions.php" />
       </list>
     </option>
   </component>
@@ -393,12 +322,12 @@
       <option name="presentableId" value="Default" />
       <updated>1527787854838</updated>
       <workItem from="1527787858699" duration="22167000" />
-      <workItem from="1528314306506" duration="13178000" />
+      <workItem from="1528314306506" duration="18151000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35345000" />
+    <option name="totallyTimeSpent" value="40318000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -484,8 +413,8 @@
         <state relative-caret-position="17">
           <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
           <folding>
-            <element signature="e#6#87#0#PHP" expanded="true" />
-            <marker date="1528320551090" expanded="true" signature="1114:1176" ph="..." />
+            <element signature="e#6#130#0#PHP" expanded="true" />
+            <marker date="1528331660618" expanded="true" signature="1157:1219" ph="..." />
           </folding>
         </state>
       </provider>
@@ -699,54 +628,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template-section.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="31" column="10" lean-forward="true" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
-          <folding>
-            <element signature="e#6#143#0#PHP" expanded="true" />
-            <marker date="1528327224030" expanded="true" signature="413:514" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template-projects.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="33" lean-forward="true" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="23" column="28" lean-forward="true" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template-header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="27" column="15" lean-forward="true" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
-          <folding>
-            <element signature="e#6#87#0#PHP" expanded="true" />
-            <marker date="1528320551090" expanded="true" signature="1114:1176" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-680">
-          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-          <folding>
-            <element signature="e#6#87#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -755,6 +636,54 @@
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template-section.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+          <folding>
+            <element signature="e#6#143#0#PHP" expanded="true" />
+            <marker date="1528327224030" expanded="true" signature="413:514" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template-projects.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template-header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="30" lean-forward="true" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+          <folding>
+            <element signature="e#6#130#0#PHP" expanded="true" />
+            <marker date="1528331660618" expanded="true" signature="1157:1219" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="85" column="43" lean-forward="true" selection-start-line="85" selection-start-column="43" selection-end-line="85" selection-end-column="43" />
+          <folding>
+            <element signature="e#6#87#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

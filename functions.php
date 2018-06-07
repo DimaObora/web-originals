@@ -81,13 +81,14 @@ class Walker_Primary_Menu extends Walker_Nav_Menu {
         $attributes .= ! empty( $item->target )     ? ' target="' . esc_attr( $item->target     ) .'"' : '';
         $attributes .= ! empty( $item->xfn )        ? ' rel="'    . esc_attr( $item->xfn        ) .'"' : '';
         // переделанно под якоря(особенность этой темы)
-        $attributes .= ! empty( $item->url )        ? ' href="#'   . esc_attr( $item->title        ) .'"' : '';
+        // нужно брать название поста а не меню или наоборот
+        $attributes .= ! empty( $item->url )        ? ' href="#'   . esc_attr( get_post($item->object_id)->post_title ) .'"' : '';
         $attributes .= ' class="nav-link"';
 
         // ссылка и околоссылочный текст
         $item_output = $args->before;
         $item_output .= '<a'. $attributes .'>';
-        // todo: переделать ссылки на одностраничник а также вывод всех этих элементов в секциях
+        // переделаны ссылки на одностраничник а также вывод всех этих элементов в секциях
         $item_output .= $args->link_before . apply_filters( 'the_title', $item->title, $item->ID ) . $args->link_after;
         $item_output .= '</a>';
         $item_output .= $args->after;

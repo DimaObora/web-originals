@@ -4,6 +4,7 @@
  * User: игорь
  * Date: 01.06.2018
  * Time: 17:27
+ * todo: когда нет меню выводит 2 элемента
  */
 ?>
 <header class="st-navbar">
