@@ -4,7 +4,6 @@
  * User: игорь
  * Date: 01.06.2018
  * Time: 17:27
- * todo: когда нет меню выводит 2 элемента
  */
 ?>
 <header class="st-navbar">
@@ -17,16 +16,19 @@
                 <span class="navbar-toggler-icon"></span>
             </button>
             <?php
-            wp_nav_menu(array(
-                'theme_location' => 'primary',
-                'container' => 'div',
-                'container_class' => 'collapse navbar-collapse',
-                'container_id' => 'navbarSupportedContent',
-                'items_wrap' => '<ul id="%1$s" class="%2$s navbar-nav m-auto">%3$s</ul>
+            // если нет меню в этой локации то она будет пустой
+            if (($locations = get_nav_menu_locations()) && isset($locations['primary'])) {
+                wp_nav_menu(array(
+                    'theme_location' => 'primary',
+                    'container' => 'div',
+                    'container_class' => 'collapse navbar-collapse',
+                    'container_id' => 'navbarSupportedContent',
+                    'items_wrap' => '<ul id="%1$s" class="%2$s navbar-nav m-auto">%3$s</ul>
                                     <div class="form-inline my-2 my-lg-0">
                                     <a class="phone " href="tel:+79002475139">+7(900)24-75-139</a>',
-                'walker' => new Walker_Primary_Menu()
-            ));
+                    'walker' => new Walker_Primary_Menu()
+                ));
+            }
             ?>
         </div>
     </nav>
