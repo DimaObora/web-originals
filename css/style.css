@@ -977,7 +977,7 @@ ul.styled-list.list-star li:before {
   background-image: url(../images/fon_cvetok_svetlyy_bleklyy_36851_2560x1600.jpg);
   background-attachment: fixed;
   background-color: #000;
-  background-size: 100%;
+  background-size: cover;
 }
 .c2a {
   margin: 0 auto;
@@ -1717,7 +1717,7 @@ input[type=file] {
   margin-bottom: 3%;
   width: 95%;
 }
-.contacts a, .contacts-visible a{
+.contacts a{
   color: #000;
 }
 .address::before{
@@ -1742,8 +1742,8 @@ input[type=file] {
 }
 .inl-dl{
   display: inline-block;
-  margin-bottom: 55px;
-  font-size: 29px;
+  margin-bottom: 63px;
+  font-size: 23px;
   line-height: 1.5;
 }
 .m-b-0{
