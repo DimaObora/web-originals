@@ -4,6 +4,16 @@
         max-width: 80%;
         height: auto;
     }
+
+}
+@media only screen and (max-width: 1200px){
+    .inl-dl{
+        display: inline-block;
+        margin-bottom: 65px;
+        font-size: 22px;
+        line-height: 1.5;
+        height: 100%;
+    }
 }
 @media only screen and (max-width: 991px){
     .img-md-centr{
