@@ -15,7 +15,7 @@
                     <p>Мы креативные дизайнеры</p>
                 </div>
                 <div class="row mb90">
-                    <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6">
+                    <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
                         <p>Сайт — это лицо Вашей компании в сети Интернет, и важная составляющая успеха любого
                             современного
                             бизнеса.
@@ -31,7 +31,7 @@
                             веб-студию и
                             обсудить вопросы сотрудничества.</p>
                     </div>
-                    <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6">
+                    <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
                         <img src="<?php echo get_template_directory_uri(); ?>/photos/about.jpg" alt="" class="img-responsive">
                     </div>
                 </div>
