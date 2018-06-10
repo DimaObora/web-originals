@@ -58,7 +58,8 @@
         $(document).ready(function () {
             $("#feedbackbt").click(function () {
                 var msg = {};
-                var form = Array.from($('.feedback'));
+                var formObject = $(".feedback");
+                var form = Array.from(formObject);
                 form.forEach(
                     function (el) {
                         msg[el.name] = el.value;
