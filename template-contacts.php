@@ -34,12 +34,12 @@
                 </div>
                 <div class=" coll-back col-xl-6 col-lg-6 col-md-12 col-sm-12">
                     <form>
-                        <input name="name" placeholder="Укажите ваше имя!" class="textbox" required/>
-                        <input name="emailaddress" placeholder="Укажите ваш Email!" class="textbox" type="email"
-                               required/>
-                        <textarea rows="4" cols="50" name="subject" placeholder="Введите ваше сообщение:"
-                                  class="message" required></textarea>
-                        <input name="submit" class="button" type="submit" value="Отправить"/>
+                    <input name="name" placeholder="Укажите ваше имя!" class="textbox feedback" required/>
+                    <input name="emailaddress" placeholder="Укажите ваш Email!" class="textbox feedback" type="email"
+                           required/>
+                    <textarea rows="4" cols="50" name="message" placeholder="Введите ваше сообщение:"
+                              class="message feedback" required></textarea>
+                    <input class="button" type="button" onclick="feedback();" value="Отправить"/>
                     </form>
                 </div>
             </div>
@@ -50,3 +50,26 @@
 
 
 </section>
+<script>
+    function feedback() {
+        jQuery(function ($) {
+
+            var msg = {};
+            Array.from($('.feedback')).forEach(function (el) {
+                msg[el.name] = el.value;
+            });
+            msg['action'] = 'feedback';
+            console.log(msg);
+            var msgtext = $.param(msg);
+            $.ajax({
+                type: "GET",
+                url: window.wp_data.ajax_url,
+                data: msgtext,
+                success: function (response) {
+                    alert('Отправленно!');
+                }
+            });
+        });
+        return false;
+    }
+</script>
