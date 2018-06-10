@@ -54,7 +54,7 @@
 <script>
 
 
-    jQuery(function ($) {
+    (function ($) {
         $(document).ready(function () {
             $("#feedbackbt").click(function () {
                 var msg = {};
@@ -75,5 +75,5 @@
                 return false;
             });
         });
-    });
+    })(jQuery);
 </script>
