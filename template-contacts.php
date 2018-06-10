@@ -58,9 +58,12 @@
         $(document).ready(function () {
             $("#feedbackbt").click(function () {
                 var msg = {};
-                Array.from($('.feedback')).forEach(function (el) {
-                    msg[el.name] = el.value;
-                });
+                var form = Array.from($('.feedback'));
+                form.forEach(
+                    function (el) {
+                        msg[el.name] = el.value;
+                    }
+                );
                 msg['action'] = 'feedback';
                 console.log(msg);
                 var msgtext = $.param(msg);
