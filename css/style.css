@@ -1727,7 +1727,7 @@ input[type=file] {
   margin-right: 7%;
 
 }
-.phone::before{
+.phone-contact::before{
   content: url(../images/telephone.png);
   display: inline-block;
   position: relative;
