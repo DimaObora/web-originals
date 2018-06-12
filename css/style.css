@@ -321,7 +321,7 @@ h6 {
   color: #4c4c4c;
   font-weight: 400;
   letter-spacing: 2px;
-  font-size: 28px;
+  font-size: 32px;
   line-height: 48px;
   display: inline-block;
   *display: inline;
@@ -334,7 +334,7 @@ h6 {
   font-family: 'PT Sans Narrow', sans-serif;
   text-transform: uppercase;
   color: #4ecdc4;
-  font-size: 38px;
+  font-size: 30px;
   line-height: 58px;
   letter-spacing: 3px;
 }
@@ -1157,7 +1157,7 @@ width: 25%;
   background-image: url(../images/f1fea467ef5d227.jpg);
   background-attachment: fixed;
   background-color: #000;
-  background-size: 150%;
+  background-size: cover;
   color: #fff;
 }
 .testimonial .testimonial-img {
@@ -1634,8 +1634,8 @@ footer.site-footer a:hover {
 }
 @media (min-width: 768px) {
   .uMenuRoot > li,.navbar-nav > li > a {
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
   }
   }
   .st-navbar-mini .navbar-default .uMenuRoot > li {
@@ -1727,7 +1727,7 @@ input[type=file] {
   margin-right: 7%;
 
 }
-.phone::before{
+.phone-contact::before{
   content: url(../images/telephone.png);
   display: inline-block;
   position: relative;

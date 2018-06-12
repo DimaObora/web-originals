@@ -22,9 +22,9 @@
                     <div class="contacts">
                         <ul class="width-ul-contactss">
                             <li class="address "><p class="inl-dl">Старомышастовская улица <br> Садовая № 211</p></li>
-                            <li class="phone "><p class="inl-dl"><a class="tel" href="tel:+79002475139">+79002475139</a>
+                            <li class="phone-contact "><p class="inl-dl"><a class="tel" href="tel:+79002475139">+79002475139</a>
                                 </p></li>
-                            <li class="phone "><p class="inl-dl"><a class="tel" href="tel:+79885242737">+79885242737</a>
+                            <li class="phone-contact "><p class="inl-dl"><a class="tel" href="tel:+79885242737">+79885242737</a>
                                 </p></li>
                             <li class="email "><p class="inl-dl m-b-0"><a class="mail"
                                                                           href="mailto:web-originals@yandex.ru">web-originals@yandex.ru</a>
