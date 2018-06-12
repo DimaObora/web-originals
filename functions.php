@@ -82,7 +82,7 @@ class Walker_Primary_Menu extends Walker_Nav_Menu {
         $attributes .= ! empty( $item->xfn )        ? ' rel="'    . esc_attr( $item->xfn        ) .'"' : '';
         // переделанно под якоря(особенность этой темы)
         // нужно брать название поста а не меню или наоборот
-        $attributes .= ! empty( $item->url )        ? ' href="#'   . esc_attr( get_post($item->object_id)->post_title ) .'"' : '';
+        $attributes .= ! empty( $item->title )        ? ' href="#'   . esc_attr( $item->title ) .'"' : '';
         $attributes .= ' class="nav-link"';
 
         // ссылка и околоссылочный текст
