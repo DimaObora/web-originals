@@ -8,7 +8,6 @@
  */
 
 ?>
-<a name="<?php the_title(); ?>"></a>
 <section class="post-section">
     <div class="container">
         <div class="row">
