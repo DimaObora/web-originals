@@ -25,6 +25,9 @@ get_header();
             global $post;
             foreach ((array)$menu_items as $key => $menu_item) {
                 $post = get_post(intval($menu_item->object_id));
+                ?>
+                <a name="<?php echo $menu_item->title ?>"></a>
+                <?php
                 setup_postdata($post);
                 get_template_part('template-section', 'none');
             }
