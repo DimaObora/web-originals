@@ -37,19 +37,19 @@ get_header();
 
 
     // О нас
-    get_template_part('template-about', 'none');
+    //get_template_part('template-about', 'none');
 
     // Коротко о нас
-    get_template_part('template-faq-sec', 'none');
+    //get_template_part('template-faq-sec', 'none');
 
     // Сервис
-    get_template_part('template-service', 'none');
+    //get_template_part('template-service', 'none');
 
     // Позвоните нам
     get_template_part('template-call-us', 'none');
 
     // Продвижение сайтов
-    get_template_part('template-features-desc', 'none');
+   // get_template_part('template-features-desc', 'none');
 
     // Наши проекты
     get_template_part('template-projects', 'none');
