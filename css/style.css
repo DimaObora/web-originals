@@ -1756,4 +1756,6 @@ li {
   list-style-type: none; /* Убираем маркеры */
 }
 
-
+#wpadminbar{
+  background: none !important;
+}
