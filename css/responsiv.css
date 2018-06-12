@@ -5,19 +5,34 @@
         height: auto;
     }
 
+
 }
-@media only screen and (max-width: 1200px){
-    .inl-dl{
-
+@media only screen and (max-width: 1200px) {
+    .inl-dl {
         font-size: 22px;
-
     }
 }
+@media only screen and (min-width: 991px){
+    .flex-45{
+        flex: 0 0 47%;
+    }
+    .mr-25{
+        margin-right: 21px;
+    }
+}
+@media only screen and (min-width: 1200px) {
+    .mr-25{
+        margin-right: 24px;
+    }
+}
+
+
 @media only screen and (max-width: 991px){
     .img-md-centr{
         margin: 0 auto 5%
     }
 }
+
 @media only screen and (max-width: 768px){
     .home .hero-txt .hero-title {
         font-family: 'titel';
@@ -43,6 +58,7 @@
         margin-top: 30px;
         line-height: 0.9;
     }
+
 }
 @media only screen and (max-width: 600px){
 
@@ -52,6 +68,7 @@
     .img-responsive, .imag-about{
         display: none;
     }
+
 }
 @media only screen and (max-width: 442px){
     .home .hero-txt .hero-title {

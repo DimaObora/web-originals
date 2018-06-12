@@ -34,13 +34,15 @@
                 </div>
                 <div class=" coll-back col-xl-6 col-lg-6 col-md-12 col-sm-12">
                     <form>
-                        <input name="name" placeholder="Укажите ваше имя!" class="textbox feedback" required/>
-                        <input name="emailaddress" placeholder="Укажите ваш Email!" class="textbox feedback"
+                        <div class="row">
+                        <input name="name" placeholder="Укажите ваше имя!" class="textbox feedback col-xl-6 col-sm-12 flex-45 mr-25" required/>
+                        <input name="emailaddress" placeholder="Укажите ваш Email!" class="textbox feedback col-xl-6 col-sm-12 flex-45"
                                type="email"
                                required/>
                         <textarea rows="4" cols="50" name="message" placeholder="Введите ваше сообщение:"
                                   class="message feedback" required></textarea>
                         <input class="button" type="button" id="feedbackbt"" value="Отправить"/>
+                        </div>
                     </form>
                 </div>
             </div>

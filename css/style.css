@@ -1612,7 +1612,7 @@ a.social.rss:hover {
 }
 .contact form input,
 .contact form textarea {
-  margin-bottom: 30px;
+  margin-bottom: 24px;
 }
 input[type="text"].formFieldError,
 input[type="email"].formFieldError,
@@ -1742,7 +1742,7 @@ input[type=file] {
 }
 .inl-dl{
   display: inline-block;
-  margin-bottom: 63px;
+  margin-bottom: 13px;
   font-size: 23px;
   line-height: 1.5;
 }
@@ -1755,4 +1755,5 @@ input[type=file] {
 li {
   list-style-type: none; /* Убираем маркеры */
 }
+
 
