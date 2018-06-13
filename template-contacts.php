@@ -9,7 +9,7 @@
 <section class="contact" id="contact">
     <div class="container-fluid">
         <div class="row">
-            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
+            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12" id="contactick">
                 <div class="section-title st-center">
                     <h3>Свяжитесь с нами</h3>
                     <p>Написать нам </p>
@@ -32,7 +32,7 @@
                         </ul>
                     </div>
                 </div>
-                <div class=" coll-back col-xl-6 col-lg-6 col-md-12 col-sm-12">
+                <div class=" coll-back col-xl-6 col-lg-6 col-md-12 col-sm-12" >
                     <form>
                         <div class="row">
                         <input name="name" placeholder="Укажите ваше имя!" class="textbox feedback col-xl-6 col-sm-12 flex-45 mr-25" required/>
