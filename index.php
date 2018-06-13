@@ -57,10 +57,10 @@ get_header();
    // get_template_part('template-features-desc', 'none');
 
     // Наши проекты
-//    get_template_part('template-projects', 'none');
+    get_template_part('template-projects', 'none');
 
     // Клиенты
-//    get_template_part('template-clients', 'none');
+   get_template_part('template-clients', 'none');
 
     // Комментарии
 //    get_template_part('template-testimonials', 'none');
