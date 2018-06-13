@@ -1643,8 +1643,8 @@ footer.site-footer a:hover {
     padding-bottom: 17px;
   }
   .st-navbar-mini .navbar-nav > li > a {
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
   }
 }
 @media (min-width: 1440px) {
