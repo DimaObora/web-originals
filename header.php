@@ -17,6 +17,7 @@
     <link type="text/css" rel="StyleSheet" href="<?php echo get_template_directory_uri(); ?>/css/responsiv.css"/>
     <meta name="google-site-verification" content="5YC4_zPol3L1NKEfj3V6SdScHnWtn_6mkcQ15a6I5q4" />
     <meta name="yandex-verification" content="9366af7ee8c5d27e" />
+    <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/jquery.min.js"></script>
     <!--[if lt IE 9]>
     <script src="<?php echo get_template_directory_uri(); ?>/js/html5shiv.min.js"></script>
     <script src="<?php echo get_template_directory_uri(); ?>/js/respond.min.js"></script>
