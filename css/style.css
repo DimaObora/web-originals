@@ -1755,5 +1755,8 @@ input[type=file] {
 li {
   list-style-type: none; /* Убираем маркеры */
 }
+.ml_mr-auto_mb-25{
+  margin: 0 auto 25px;
+}
 
 

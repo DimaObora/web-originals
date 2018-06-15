@@ -41,8 +41,9 @@
                                required/>
                         <textarea rows="4" cols="50" name="message" placeholder="Введите ваше сообщение:"
                                   class="message feedback" required></textarea>
+                            <div class="g-recaptcha ml_mr-auto_mb-25" data-callback="enableBtn" data-sitekey="6Ldey14UAAAAAP2TZmSrapLQvxhmO-rp4C5LFF7z"></div>
                         <input class="button" type="submit" id="feedbackbt" value="Отправить"/>
-                            <div class="g-recaptcha" data-callback="enableBtn" data-sitekey="6Ldey14UAAAAAP2TZmSrapLQvxhmO-rp4C5LFF7z"></div>
+
                         </div>
                     </form>
                 </div>
