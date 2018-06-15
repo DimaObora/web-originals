@@ -35,7 +35,17 @@
 
                     </ul>
                     <div class="form-inline my-2 my-lg-0">
-                        <a class="phone " href="tel:+79002475139">+7(900)24-75-139</a>
+
+                        <ul class="main-menu">
+                            <li>
+                                <a class="phone " href="#">+7(900)24-75-139</a>
+                                <ul class="sub-menu">
+                                    <li><a href="tel:+79885242737" class="color-bl">+79885242737</a></li>
+                                    <li><a href="tel:+79002475139" class="color-bl">+79002475139</a></li>
+                                    <li><a href="#contactick" class="color-bl">Напишите нам</a></li>
+                                </ul>
+                            </li>
+                        </ul>
                     </div>
                 </div>
                 <?php
