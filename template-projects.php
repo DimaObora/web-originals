@@ -10,7 +10,7 @@ if (count($myposts) > 0) {
                     <div class="c2a">
                         <h2>Некоторые наши проекты</h2>
                         <div data-nanogallery2='{
-       "itemsBaseURL": "../now-web/",
+       "itemsBaseURL": "<?php echo get_template_directory_uri(); ?>",
          "thumbnailHeight": "auto",
         "thumbnailLabel": {
           "titleMultiLine": true,

@@ -18,6 +18,9 @@
 <script src="<?php echo get_template_directory_uri(); ?>/js/jquery.countTo.js"></script>
 <script src="<?php echo get_template_directory_uri(); ?>/js/owl.carousel.js"></script>
 <script src="<?php echo get_template_directory_uri(); ?>/js/jquery.ajaxchimp.min.js"></script>
+<!--todo либо они нормально не используются, либо они не работают-->
+<script src="<?php echo get_template_directory_uri(); ?>/js/jquery.shuffle.modernizr.js"></script>
+<script src="<?php echo get_template_directory_uri(); ?>/js/jquery.shuffle.js"></script>
 <script src="<?php echo get_template_directory_uri(); ?>/js/script.js"></script>
 <script src="<?php echo get_template_directory_uri(); ?>/js/main.js"></script>
 <input type="hidden" id="ThemePath" value="<?php echo get_template_directory_uri(); ?>/">
