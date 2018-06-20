@@ -52,6 +52,15 @@
 
         <div id="map"></div>
     </div>
+    <script>function windowSize(){
+            if ($(window).width() <= '500'){
+                $('.g-recaptcha').attr('data-size','compact');
+            } else {
+                $('.g-recaptcha').attr('data-size','normal');
+            }
+        }
+        windowSize();
+    </script>
     <script>
         (function ($) {
             $(document).ready(function (response) {
