@@ -2145,7 +2145,6 @@ li {
 color: black;
 }
 .scroll{
-    width: 102% !important;
     height: 200px;
     overflow-y: auto !important;
 }

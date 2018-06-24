@@ -68,6 +68,10 @@
     .img-responsive, .imag-about{
         display: none;
     }
+    .owl-carousel .owl-wrapper-outer{
+        overflow:hidden;
+        position:relative;
+        width:100%;}
 
 }
 @media only screen and (max-width: 442px){
