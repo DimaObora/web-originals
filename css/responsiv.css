@@ -11,6 +11,9 @@
     .inl-dl {
         font-size: 22px;
     }
+    .st-feature:last-child {
+        height: 376.5px;
+    }
 }
 @media only screen and (min-width: 991px){
     .flex-45{
@@ -57,6 +60,9 @@
         margin-bottom: 30px;
         margin-top: 30px;
         line-height: 0.9;
+    }
+    .st-feature:last-child {
+        height: 335.5px;
     }
 
 }
