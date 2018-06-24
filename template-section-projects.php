@@ -7,7 +7,7 @@ if (count($myposts) > 0) {
         <div class="container">
             <div class="row">
                 <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
-                    <div class="c2a">
+                    <div class="c2a section-title">
                         <h2>Некоторые наши проекты</h2>
                         <div data-nanogallery2='{
        "itemsBaseURL": "<?php echo get_template_directory_uri(); ?>",

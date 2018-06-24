@@ -436,6 +436,7 @@ h6 {
     background-repeat: no-repeat;
     background-size: 65%;
     background-position: 26px 0;
+    margin: auto;
 }
 
 .bottom-line {
@@ -1157,9 +1158,8 @@ ul.styled-list.list-star li:before {
 
 .call-2-acction {
     padding: 100px 0;
-    background-image: url(../images/fon_cvetok_svetlyy_bleklyy_36851_2560x1600.jpg);
     background-attachment: fixed;
-    background-color: #000;
+    background-color: #ffffff;
     background-size: cover;
 }
 
@@ -1170,7 +1170,7 @@ ul.styled-list.list-star li:before {
 }
 
 .c2a h2 {
-    color: #fff;
+    color: #000;
     font-size: 35px;
     font-weight: 400;
     text-transform: uppercase;
@@ -2143,4 +2143,9 @@ li {
 }
 .sub-menu a{
 color: black;
+}
+.scroll{
+    width: 102% !important;
+    height: 200px;
+    overflow-y: auto !important;
 }
