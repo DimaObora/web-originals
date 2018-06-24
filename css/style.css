@@ -2145,6 +2145,22 @@ li {
 color: black;
 }
 .scroll{
-    height: 200px;
-    overflow-y: auto !important;
+     height: 200px;
+     overflow-y: auto !important;
+ }
+.st-feature ul li:last-child{
+    background: #4ecdc4;
+    padding: 5px;
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 30px;
+    margin-top: 10%;
+    box-shadow:-5px 14px 23px 1px rgba(0,0,0,0.2);
+}
+.st-feature ul li:last-child:after{
+    content: url(../images/ruble.png);
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 3%;
 }
