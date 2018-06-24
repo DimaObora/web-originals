@@ -2148,6 +2148,12 @@ color: black;
      height: 200px;
      overflow-y: auto !important;
  }
+.st-feature{
+    position: relative;
+}
+.st-feature:last-child{
+    height: 345.5px;
+}
 .st-feature ul li:last-child{
     background: #4ecdc4;
     padding: 5px;
@@ -2155,8 +2161,11 @@ color: black;
     text-align: center;
     border-radius: 5px;
     font-size: 30px;
-    margin-top: 10%;
-    box-shadow:-5px 14px 23px 1px rgba(0,0,0,0.2);
+    box-shadow: -5px 14px 23px 1px rgba(0,0,0,0.2);
+    position: absolute;
+    width: 82%;
+    bottom: 0;
+    left: 10%;
 }
 .st-feature ul li:last-child:after{
     content: url(../images/ruble.png);
