@@ -72,6 +72,10 @@
         overflow:hidden;
         position:relative;
         width:100%;}
+    .scroll{
+        height: 400px;
+        overflow-y: auto !important;
+    }
 
 }
 @media only screen and (max-width: 442px){
