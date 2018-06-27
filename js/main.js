@@ -9,7 +9,8 @@ $(document).ready(function ($) {
         var myMap;
 
         myMap = new ymaps.Map("map", {
-            center: [45.350958421605284, 39.05811229735281],
+            // center: [45.350958421605284, 39.05811229735281],
+            center: [45.006004, 39.080030],
             zoom: 14,
             scroll: true,
             controls: []
@@ -23,11 +24,11 @@ $(document).ready(function ($) {
         var html = '<div class="popup">';
         html += '<img src="'+themePath+'images/housJPG.jpg" alt="" />';
         html += '<div class="popup-text">';
-        html += '<p>Старомышастовская <br> улица Садовая № 211 <br> <a class="tel" href="tel:+79885242737">+79885242737</a>&nbsp;&nbsp;&nbsp;<a class="tel" href="tel:+79002475139">+79002475139</a></p>';
+        html += '<p>Краснодар <br> ул. Трудовой Славы, 44 <br> <a class="tel" href="tel:+79885242737">+79885242737</a>&nbsp;&nbsp;&nbsp;<a class="tel" href="tel:+79002475139">+79002475139</a></p>';
         html += '</div>';
         html += '</div>';
 
-        var myPlacemark = new ymaps.Placemark([45.350958421605284, 39.05811229735281], {
+        var myPlacemark = new ymaps.Placemark([45.006004, 39.080030], {
                 balloonContent: html
             },
             {
