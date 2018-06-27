@@ -436,6 +436,7 @@ h6 {
     background-repeat: no-repeat;
     background-size: 65%;
     background-position: 26px 0;
+    margin: auto;
 }
 
 .bottom-line {
@@ -1157,9 +1158,8 @@ ul.styled-list.list-star li:before {
 
 .call-2-acction {
     padding: 100px 0;
-    background-image: url(../images/fon_cvetok_svetlyy_bleklyy_36851_2560x1600.jpg);
     background-attachment: fixed;
-    background-color: #000;
+    background-color: #ffffff;
     background-size: cover;
 }
 
@@ -1170,7 +1170,7 @@ ul.styled-list.list-star li:before {
 }
 
 .c2a h2 {
-    color: #fff;
+    color: #000;
     font-size: 35px;
     font-weight: 400;
     text-transform: uppercase;
@@ -2143,4 +2143,33 @@ li {
 }
 .sub-menu a{
 color: black;
+}
+.scroll{
+     height: 200px;
+     overflow-y: auto !important;
+ }
+.st-feature{
+    position: relative;
+}
+.st-feature:last-child{
+    height: 345.5px;
+}
+.st-feature ul li:last-child{
+    background: #4ecdc4;
+    padding: 5px;
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 30px;
+    box-shadow: -5px 14px 23px 1px rgba(0,0,0,0.2);
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    left: 10%;
+}
+.st-feature ul li:last-child:after{
+    content: url(../images/ruble.png);
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 3%;
 }
