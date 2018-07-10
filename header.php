@@ -1,12 +1,11 @@
 <?php
-
 ?>
 <head>
     <title>Создание и продвижение сайтов В Краснодаре!</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-<!--    <link href="http://allfont.ru/allfont.css?fonts=broken-planewing" rel="stylesheet" type="text/css"/>-->
+    <!--    <link href="http://allfont.ru/allfont.css?fonts=broken-planewing" rel="stylesheet" type="text/css"/>-->
     <style>
         @font-face {
             font-family: 'Broken Planewing';
