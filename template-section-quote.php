@@ -23,7 +23,7 @@ if (count($myposts) > 0) {
                                     <img class="d-inline-block w-12"
                                          src="<?php echo wp_get_attachment_image_url(get_post_meta($post->ID, "image", true), 'full'); ?>"
                                          alt="image">
-                                    <h1><?php echo get_post_meta($post->ID, "author", true); ?></h1>
+                                    <h1 class="color-white"><?php echo get_post_meta($post->ID, "author", true); ?></h1>
                                     <p><?php the_content(); ?></p>
                                 </div>
                                 <?php
