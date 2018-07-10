@@ -89,6 +89,9 @@
     .st-feature ul li:last-child {
         width: 82%;
     }
+    .w-12{
+        width: 60% !important;
+    }
 
 }
 @media only screen and (max-width: 442px){
