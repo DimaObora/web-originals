@@ -71,15 +71,15 @@
 }
 
 @media only screen and (max-width: 575px){
-    .img-responsive, .imag-about{
-        display: none;
-    }
+    /*.img-responsive, .imag-about{*/
+        /*display: none;*/
+    /*}*/
     .owl-carousel .owl-wrapper-outer{
         overflow:hidden;
         position:relative;
         width:100%;}
     .scroll{
-        height: 400px;
+        height: 155px;
         overflow-y: auto !important;
     }
     .st-feature:last-child {
