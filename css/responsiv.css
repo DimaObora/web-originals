@@ -1,9 +1,47 @@
-@media only screen and (max-width: 576px){
+@media only screen and (min-width: 1198px){
+    .img-responsive {
+        display: inline-block;
+        max-width: 80%;
+        height: auto;
+    }
+
+
+}
+@media only screen and (max-width: 1200px) {
+    .inl-dl {
+        font-size: 22px;
+    }
+    .st-feature:last-child {
+        height: 376.5px;
+    }
+}
+@media only screen and (min-width: 991px){
+    .flex-45{
+        flex: 0 0 47%;
+    }
+    .mr-25{
+        margin-right: 21px;
+    }
+}
+@media only screen and (min-width: 1200px) {
+    .mr-25{
+        margin-right: 24px;
+    }
+}
+
+
+@media only screen and (max-width: 991px){
+    .img-md-centr{
+        margin: 0 auto 5%
+    }
+}
+
+@media only screen and (max-width: 768px){
     .home .hero-txt .hero-title {
         font-family: 'titel';
         color: #fff;
         text-transform: uppercase;
-        font-size: 31px;
+        font-size: 45px;
         line-height: 45px;
         font-weight: 400;
         letter-spacing: 4px;
@@ -16,11 +54,61 @@
         padding: 9vh 0;
     }
     .home .hero-txt .hero-sub-title {
-        font-size: 49px;
+        font-size: 31px;
         letter-spacing: 5px;
         font-weight: 300;
         margin-bottom: 30px;
         margin-top: 30px;
         line-height: 0.9;
     }
+    .st-feature:last-child {
+        height: 335.5px;
+    }
+
 }
+@media only screen and (max-width: 600px){
+
+}
+
+@media only screen and (max-width: 575px){
+    /*.img-responsive, .imag-about{*/
+        /*display: none;*/
+    /*}*/
+    .owl-carousel .owl-wrapper-outer{
+        overflow:hidden;
+        position:relative;
+        width:100%;}
+    .scroll{
+        height: 155px;
+        overflow-y: auto !important;
+    }
+    .st-feature:last-child {
+        height: 333.5px;
+        margin-bottom: 17%;
+    }
+    .st-feature ul li:last-child {
+        width: 82%;
+    }
+    .w-12{
+        width: 60% !important;
+    }
+
+}
+@media only screen and (max-width: 442px){
+    .home .hero-txt .hero-title {
+        font-size: 35px;
+    }
+    .inl-dl{
+        font-size: 12px;
+    }
+    .width-ul-contactss{
+        padding-left: 0;
+    }
+    .contacts {
+        padding: 26px;
+    }
+
+}
+
+
+
