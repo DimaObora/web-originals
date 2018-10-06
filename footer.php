@@ -24,6 +24,8 @@
 <script src="<?php echo get_template_directory_uri(); ?>/js/jquery.shuffle.js"></script>
 <script src="<?php echo get_template_directory_uri(); ?>/js/script.js"></script>
 <script src="<?php echo get_template_directory_uri(); ?>/js/main.js"></script>
+<script src="<?php echo get_template_directory_uri(); ?>/js/menu.js"></script>
+
 <input type="hidden" id="ThemePath" value="<?php echo get_template_directory_uri(); ?>/">
 <?php
 wp_footer();
